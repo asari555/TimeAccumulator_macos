@@ -6,39 +6,18 @@
 [badge.license]: https://img.shields.io/github/license/asari555/TimeAccumulator_windows?color=brightgreen
 [badge.cpp]: https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white
 
-A TUI app that accumulates working times, allows users to track work minutes and session in a day, lets users make aware about your performance summaries of previous day, week, month, and year, and users' increased/decreased performance compared to the previous day.
+A TUI app that accumulates working times, allows users to track work minutes and session in a day, and lets users make aware about their performance summaries of previous day, week, month and year. Additionaly, this app indicates users' increased/decreased performance values compared to the previous day.
 
 ### Table of Contents
 
-+ **[Operating Systems](#operating-systems)**
-+ **[Tested On](#tested-on)**
-+ **[Compiled Via](#compiled-via)**
 + **[Demonstration](#demonstration)**
 + **[About Time Accumulator](#about-time-accumulator)**
 + **[Calendar Abstraction](#calendar-abstraction)**
++ **[Operating Systems](#operating-systems)**
++ **[Tested On](#tested-on)**
++ **[Compiled Via](#compiled-via)**
 + **[Command Keys](#command-keys)**
 + **[Dependencies](#dependencies)**
-
-## Operating Systems
-
-+ Current platform
-
-    ![Mac OS](https://img.shields.io/badge/mac%20os-gray?style=flat&logo=macos&logoColor=F0F0F0)
-
-+ For another platform, please click
-
-    [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://github.com/asari555/TimeAccumulator)
-
-    [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://github.com/asari555/TimeAccumulator_windows)
-
-## Tested On
-
-![macos-catalina](https://img.shields.io/badge/macos-catalina-brightgreen.svg)
-![macos-bigsur](https://img.shields.io/badge/macos-bigsur-brightgreen.svg)
-
-## Compiled Via
-
-> Apple clang version 12.0.5 (clang-1205.0.22.11)
 
 ## Demonstration 
 
@@ -105,6 +84,27 @@ In addition, each summary stage is regenerated after the next required number of
 + `Esc`: Escape from the current window.
 
 + `Return`: Select.
+
+## Operating Systems
+
++ Current platform
+
+    ![Mac OS](https://img.shields.io/badge/mac%20os-gray?style=flat&logo=macos&logoColor=F0F0F0)
+
++ For another platform, please click
+
+    [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://github.com/asari555/TimeAccumulator)
+
+    [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://github.com/asari555/TimeAccumulator_windows)
+
+## Tested On
+
+![macos-catalina](https://img.shields.io/badge/macos-catalina-brightgreen.svg)
+![macos-bigsur](https://img.shields.io/badge/macos-bigsur-brightgreen.svg)
+
+## Compiled Via
+
+> Apple clang version 12.0.5 (clang-1205.0.22.11)
 
 ## Dependencies
 
