@@ -41,7 +41,7 @@ Some critical features of this application that should be known:
 
 + Turkish and English are provided as language preferences. The former is the default language. Users can change the language with following the instruction below. The program should be closed and opened again after changing the `Language` preference.
 
-> **Dil** > **English**	then	**Çıkış**
+    > **Dil** > **English**	then	**Çıkış**
 
 + `About` me and `Help` stages are provided in the homepage to learn more and how to use respectively.
 
@@ -89,7 +89,7 @@ In addition, each summary stage is regenerated after the next required number of
 
 + Current platform
 
-    ![Mac OS](https://img.shields.io/badge/mac%20os-gray?style=flat&logo=macos&logoColor=F0F0F0)
+    [![Mac OS](https://img.shields.io/badge/mac%20os-gray?style=flat&logo=macos&logoColor=F0F0F0)](https://github.com/asari555/TimeAccumulator_macos)
 
 + For another platform, please click
 
