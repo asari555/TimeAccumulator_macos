@@ -110,6 +110,6 @@ In addition, each summary stage is regenerated after the next required number of
 
 + [Boost 1.71.0](https://www.boost.org/doc/libs/1_71_0/more/getting_started/windows.html)
 
-+ [ftxui](https://github.com/aaleino/FTXUI.git) 
++ [ftxui](https://github.com/ArthurSonzogni/FTXUI)
 
 + [msgpack-c](https://github.com/msgpack/msgpack-c/tree/cpp_master)
