@@ -13,11 +13,12 @@ A TUI app that accumulates working times, allows users to track work minutes and
 + **[Demonstration](#demonstration)**
 + **[About Time Accumulator](#about-time-accumulator)**
 + **[Calendar Abstraction](#calendar-abstraction)**
++ **[Command Keys](#command-keys)**
 + **[Operating Systems](#operating-systems)**
 + **[Tested On](#tested-on)**
 + **[Compiled Via](#compiled-via)**
-+ **[Command Keys](#command-keys)**
 + **[Dependencies](#dependencies)**
+
 
 ## Demonstration 
 
